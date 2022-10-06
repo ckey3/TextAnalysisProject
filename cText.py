@@ -10,4 +10,5 @@ class text:
 #findes how many lines in file
     def fileLength(self):
         n = len(self.lines)
+        
         return(n)
